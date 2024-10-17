@@ -6,7 +6,7 @@ Version:	0.1
 Release:	0.3
 Group:		System/X11
 License:	MIT
-Url:		http://xorg.freedesktop.org
+Url:		https://xorg.freedesktop.org
 Source0:	http://xorg.freedesktop.org/releases/individual/driver/xf86-input-cmt-%{version}.tar.bz2
 
 BuildRequires:	pkgconfig(xproto)
